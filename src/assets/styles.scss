@@ -1,0 +1,32 @@
+body {
+   padding: 0;
+   width: 100%;
+   height: 100%;
+   margin: 0;
+   font-size: 62.5%;
+}
+
+.App {
+  background-color: lightgray;
+  padding: 1rem;
+  font-size: 1rem;
+
+  button {
+    background-color: purple;
+    color: white;
+    margin-right: 1rem;
+    border: none;
+    padding: 0.5rem 2rem;
+    cursor: pointer;
+    font-size: 1rem;
+  }
+  
+  input {
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+  }
+
+  .text-output {
+    padding: 0.5rem;
+  }
+}
