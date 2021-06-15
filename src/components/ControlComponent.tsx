@@ -12,7 +12,7 @@ const ControlComponent : React.FC<ControlComponentProps> = (props) => {
 
   return <div>
       <div>
-        <label htmlFor="todo-text">Type something in</label>
+        <label htmlFor="todo-text">Type something in below</label>
         <input 
           type="text" 
           id="todo-text" 
